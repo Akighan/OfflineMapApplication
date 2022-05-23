@@ -1,4 +1,9 @@
 <resources>
-    <string name="app_name">OflineMapApplication</string>
+    <string name="app_name">OfflineMapApplication</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="user_name">Your Name</string>
+    <string name="gps">GPS</string>
+    <string name="enter_name_pop_up">Change your name</string>
+    <string name="enter_your_name_hint">enter your name here</string>
+    <string name="change_name_accept_button">accept</string>
 </resources>
